@@ -15,38 +15,38 @@
 
 ### 💼 Work Experience
 
-#### Senior Frontend Software Engineer at Entando Inc | 08/2023 – Present
+#### Senior Frontend Software Engineer at Entando Inc (Current)
 
 - Developed and improved an application composition open source software ([Entando App Builder](https://github.com/entando/app-builder)) with React.js and Redux.
 - Enhanced performance and reduced bundle size through Code-Splitting and dependency optimization.
 - Currently analyzing tools for performance metrics and error reporting on the frontend.
 
-#### Lead Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella | 01/2023 – 07/2023
+#### Lead Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella
 
 - Led a team of four frontend software engineers in Spain and Italy, developing the company UI Components Library based on the Design System with Stencil.js and Tailwindcss.
 - Led the development of an enterprise-level Frontend Application, streamlining onboarding processes for financial enterprises with NX, Angular, RxJS, Tailwindcss, and the UI Component Library.
 
-#### Senior Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella | 01/2022 – 01/2023
+#### Senior Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella 
 
 - Played a pivotal role in a dynamic Fintech project, leveraging Angular and RxJS to create cutting-edge solutions.
 - Collaborated closely with UX/UI designers to translate design specifications into high-quality, visually appealing, and intuitive user interfaces.
 
-#### Frontend Software Engineer at ConTe.it – Admiral Group (Insurance Project) | 05/2020 – 01/2022
+#### Frontend Software Engineer at ConTe.it – Admiral Group (Insurance Project) 
 
 - Contributed significantly to the success of a prominent insurance-focused project, specializing in NX, Angular, RxJS, NGRX, AWS Cognito, and Rest APIs.
 - Mentored colleagues with varying levels of seniority, actively participated in code reviews, and collaborated with cross-functional teams.
 
-#### Full Stack Developer Consultant at EstiaTech SRL (Public Administration Projects) | 11/2019 – 05/2020
+#### Full Stack Developer Consultant at EstiaTech SRL (Public Administration Projects)
 
 - Designed, developed, and deployed robust and scalable applications for public sector initiatives using Bootstrap, jQuery, Java, Spring MVC, and Spring Boot.
 - Collaborated with clients to understand their unique needs and delivered solutions aligned with industry regulations and compliance standards.
 
-#### Junior Full Stack Developer Consultant at JPanik SRL (Healthcare Projects) | 07/2018 – 11/2019
+#### Junior Full Stack Developer Consultant at JPanik SRL (Healthcare Projects) 
 
 - Gained hands-on experience in frontend development using Angular.js for healthcare applications.
 - Collaborated closely with senior developers and project stakeholders to understand project requirements and contributed to the design and implementation of features.
 
-#### Software Developer Intern at I&M Consulting – Energent Group | 05/2018 – 07/2018
+#### Software Developer Intern at I&M Consulting – Energent Group
 
 - Contributed to the development of a mobile application tailored for the tourism sector using Ionic Framework, Google Maps API, Xcode, and Android Studio.
 - Worked closely with senior developers and acquired practical skills in mobile app development.
