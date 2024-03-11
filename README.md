@@ -19,13 +19,10 @@
 
 - Working on an application composition open source software ([Entando App Builder](https://github.com/entando/app-builder)) with React.js and Redux.
 
-#### Lead Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella
+#### Senior Frontend Software Engineer & Lead Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella 
 
 - Led a team of four frontend software engineers in Spain and Italy, developing the company UI Components Library based on the Design System with Stencil.js and Tailwindcss.
 - Led the development of an enterprise-level Frontend Application, streamlining onboarding processes for financial enterprises with NX, Angular, RxJS, Tailwindcss, and the UI Component Library.
-
-#### Senior Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella 
-
 - Played a pivotal role in a dynamic Fintech project, leveraging Angular and RxJS to create cutting-edge solutions.
 - Collaborated closely with UX/UI designers to translate design specifications into high-quality, visually appealing, and intuitive user interfaces.
 
