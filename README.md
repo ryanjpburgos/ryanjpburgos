@@ -18,6 +18,7 @@
 #### Senior Frontend Software Engineer at Entando Inc (Current)
 
 - Working on an application composition open source software ([Entando App Builder](https://github.com/entando/app-builder)) with React.js and Redux.
+- Working on a new application using React, Bun, Typescript, Storybook, Radix-ui.
 
 #### Senior Frontend Software Engineer & Lead Frontend Software Engineer (Fintech Project) at Fabrick SpA – Gruppo Banca Sella 
 
